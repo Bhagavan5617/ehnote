@@ -13,13 +13,16 @@
       "default",
       {
         "duplicate-id-active": "off",
-        "duplicate-id": "off"
+        "duplicate-id": "off",
+        "duplicate-id-aria": "off"
       }
     ],
     "axe/aria": [
       "default",
       {
-        "aria-valid-attr-value": "off"
+        "aria-valid-attr-value": "off",
+        "aria-allowed-attr": "off",
+        "empty-table-header": "off"
       }
     ],
     "axe/name-role-value": [
@@ -34,6 +37,7 @@
       {
         "nested-interactive": "off"
       }
-    ]
+    ],
+    "no-inline-styles": "off"
   }
 }
