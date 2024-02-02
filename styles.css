@@ -1,0 +1,216 @@
+h3{
+    color: #1D5558;
+}
+i{
+    font-size: 18px;
+    }
+body{
+    background-color: #F2F2F2;
+}
+.nav-items a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: #F1F1F1;
+    border: none;
+    border-radius: 5px;
+}
+.header-main{
+    grid-gap: 10px;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 8px rgb(205, 202, 202);
+    background-color: white;
+}
+.header-name{
+    padding: 0 20px;
+}
+
+.nav-items a:hover {
+    background-color: #1D5558;
+    color: white;
+}
+.userplus-icon i {
+    font-size: 30px; 
+}
+.ptags p{
+    font-size: 12px;
+    color: #1D5558;
+}
+.ptags i{
+    font-size: 12px;
+}
+.home-icon i{
+    font-size: 30px;
+    padding: 20px;
+}
+.right-icons i{
+    font-size: 25px;
+    padding:0 6px;
+    margin-right:20px;
+    background-color: #DAE8E5;
+    border-radius: 10px;
+}
+.header-right-items{
+    padding:0 50px
+}
+.user-icon i{
+    font-size: 30px;
+    background-color: #DAE8E5;
+    margin-left: 15px;
+    border-radius: 20px;
+}
+
+.right-user-icon div > p{
+    font-size: 12px;
+}
+.header-h{
+    padding: 0 20px;
+}
+.side-nav{
+    background-color: white;
+    margin-top: 10px;
+    width: 7%;
+}
+.side-nav div > a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+.body-container{
+row-gap: 10px;
+}
+.complaints{
+    background-color: #FAFAFA;
+    border-radius: 10px;
+    
+}
+.body-middle{
+    width: 73%;
+    margin-left: 10px;
+    background-color: #DDDDDD;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.complaints-two{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.body-right a{
+    text-decoration: none;
+    color: black;
+    
+}
+.body-right{
+    width:20%
+}
+.appointment{
+    background:white;
+    padding:5px 10px;
+
+
+}
+.appointment-timings span:hover{
+background-color: #1D5558;
+color: white;
+}
+.appointment-timings span{
+    padding: 0 10px;
+    border-radius: 10px;
+    background-color: white;
+}
+.appointment-p{
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.body-right-a a{
+    padding: 5px 25px;
+    border-radius: 10px;
+}
+.body-right-a a:hover{
+    background-color: #1D5558;
+    color: white;
+}
+.vision-perception{
+    background-color: #DDDDDD;
+}
+.accordion-button{
+    width: 25%;
+    
+
+}
+.ros-system{
+    background-color: #FAFAFA;
+    
+}
+table {
+    border-collapse: separate;
+    border-spacing: 0 8px; /* Adjust the spacing as needed */
+    
+}
+
+th, td {
+    
+    border-bottom: 2px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+    font-size: 14px;
+}
+th{
+    border-right: 1px solid rgb(197, 195, 195); 
+}
+#ou-color {
+color: #E55E66;
+}
+#od-color{
+    color: #97D4F0;
+}
+#os-color{
+    color:#72B4A6;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.glare{
+    background-color: #dddddd;
+}
+.vision-perception-va{
+    padding:20px;
+    text-align: center;
+    justify-content: center;
+    background-color: #F2F2F2;
+}
+.complaints-one{
+    
+    background-color: white;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+.accordion-item{
+    background-color: #FAFAFA;
+}
+.va-table th>td{
+    padding: 0 10px;
+}
+.ar-table-title{
+    background-color: #F2F2F2;
+}
+table{
+    width: auto;
+}
+.appointment-p{
+    border-bottom: 2px solid gray;
+}
+.appointment-p:hover
+{
+    border: none;
+    background-color: #C2DFD9;
+}
+.appointment-timings-date{
+    width: 50%;
+}
