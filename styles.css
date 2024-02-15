@@ -210,9 +210,6 @@ th, td {
 th {
     border-right: 1px solid rgb(197, 195, 195);
 }
-tr:last-child{
-    border-bottom: none;
-}
 
 th:last-child {
     border-right: none; 
